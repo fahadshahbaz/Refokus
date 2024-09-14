@@ -60,8 +60,8 @@ pnpm dev
 ## 🌍 Live Demo
 
 Explore the live version of Refokus Clone:  
-🔗 [Refokus Website Clone Live](https://myrefokus.vercel.app)
+🔗 [Refokus Website Live](https://myrefokus.vercel.app)
 
----
+## 🎉 Happy Coding 
 
 Thank you for checking out the **Refokus Website Clone** project! Happy coding! 🚀
