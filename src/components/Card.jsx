@@ -2,13 +2,13 @@ import { IoIosArrowRoundForward } from "react-icons/io";
 
 const Card = ({width, start, para, hover = "false"}) => {
   return (
-    <div className={`bg-zinc-800 p-5 rounded-xl hover:${hover} ${width} min-h-[30rem] flex flex-col justify-between`}>
+    <div className={`max-w-screen-xl bg-zinc-800 p-5 rounded-xl hover:${hover} ${width} min-h-[30rem] flex flex-col justify-between`}>
       <div className="w-full">
         <div className="w-full flex justify-between items-center">
-          <h3>one heading</h3>
+          <h3>Up Next: Culture</h3>
           <IoIosArrowRoundForward />
         </div>
-        <h1 className="text-3xl font-medium mt-2">Heading simple</h1>
+        <h1 className="text-3xl font-medium mt-2">let's get to it</h1>
       </div>
       <div className="down w-full">
         {start && (
@@ -24,7 +24,7 @@ const Card = ({width, start, para, hover = "false"}) => {
 
         {para && (
           <p className="text-sm text-zinc-500 font-medium">
-            Lorem ipsum dolor sit amet consectetur.
+            Explore what drives our team.
           </p>
         )}
       </div>
