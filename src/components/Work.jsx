@@ -19,7 +19,7 @@ const Work = () => {
   ];
 
   return (
-    <div className="w-full mt-20">
+    <section className="w-full mt-20">
       <div className="relative max-w-screen-xl mx-auto">
         <h1 className="text-[37vw]  text-center leading-none font-medium select-none">
           work
@@ -39,7 +39,7 @@ const Work = () => {
           )}
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
