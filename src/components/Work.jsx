@@ -5,8 +5,8 @@ import {
   secondhero,
   thirdhero,
   fourthhero,
-  sixthhhero,
   fifthhero,
+  sixthhhero,
 } from "../assets/";
 
 const Work = () => {
@@ -84,3 +84,6 @@ const Work = () => {
 };
 
 export default Work;
+
+
+
