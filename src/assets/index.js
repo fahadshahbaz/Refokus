@@ -1,31 +1,32 @@
-import logo from "../assets/logo.svg";
-import firsthero from "../assets/firsthero.png";
-import secondhero from "../assets/secondhero.png";
-import thirdhero from "../assets/thirdhero.png";
-import fourthhero from "../assets/fourthhero.png";
-import fifthhero from "../assets/fifthhero.png";
-import sixthhhero from "../assets/sixthhero.png";
-import firstlogo from "../assets/firstlogo.svg";
-import secondlogo from "../assets/secondlogo.svg";
-import thirdlogo from "../assets/thirdlogo.svg";
-import basf from "../assets/basf.svg";
-import bcgp from "../assets/bcgp.svg";
-import singularity from "../assets/singularity.svg";
-import intenseeye from "../assets/intenseeye.svg";
-import flowcode from "../assets/flowcode.svg";
-import ypo from "../assets/ypo.svg";
-import lavender from "../assets/lavender.svg";
-import remind from "../assets/remind.svg";
-import logowhite1 from "../assets/logowhite1.svg";
-import weglot from "../assets/weglot.svg";
-import spotify from "../assets/spotify.svg";
-import haufe from "../assets/haufe.svg";
-import yahoo from "../assets/yahoo.svg";
-import rainFall from "../assets/rainfall.svg";
-import doxel from "../assets/doxel.svg";
-import mural from "../assets/mural.svg";
-import webflow from "../assets/webflow.svg";
-import rocket from "../assets/rocket.svg";
+import logo from "./logo.svg";
+import firsthero from "./firsthero.png";
+import secondhero from "./secondhero.png";
+import thirdhero from "./thirdhero.png";
+import fourthhero from "./fourthhero.png";
+import fifthhero from "./fifthhero.png";
+import sixthhhero from "./sixthhero.png";
+import firstlogo from "./firstlogo.svg";
+import secondlogo from "./secondlogo.svg";
+import thirdlogo from "./thirdlogo.svg";
+import basf from "./basf.svg";
+import bcgp from "./bcgp.svg";
+import singularity from "./singularity.svg";
+import intenseeye from "./intenseeye.svg";
+import flowcode from "./flowcode.svg";
+import ypo from "./ypo.svg";
+import lavender from "./lavender.svg";
+import remind from "./remind.svg";
+import logowhite1 from "./logowhite1.svg";
+import weglot from "./weglot.svg";
+import spotify from "./spotify.svg";
+import accel from "./accel.svg";
+import haufe from "./haufe.svg";
+import yahoo from "./yahoo.svg";
+import rainfall from "./rainfall.svg";
+import doxel from "./doxel.svg";
+import mural from "./mural.svg";
+import webflow from "./webflow.svg";
+import rocket from "./rocket.svg";
 
 export {
   logo,
@@ -41,6 +42,7 @@ export {
   basf,
   bcgp,
   singularity,
+  accel,
   intenseeye,
   flowcode,
   ypo,
@@ -51,7 +53,7 @@ export {
   spotify,
   haufe,
   yahoo,
-  rainFall,
+  rainfall,
   doxel,
   mural,
   webflow,

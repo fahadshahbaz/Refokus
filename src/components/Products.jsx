@@ -69,7 +69,8 @@ function Products() {
           initial={{ y: pos, x: "-50%" }}
           animate={{ y: pos + `rem` }}
           transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.6 }}
-          className="window absolute w-full sm:w-[28rem] md:w-[32rem] h-[12rem] sm:h-[16rem] md:h-[23rem] left-1/2 sm:left-[44%] overflow-hidden"
+          // className="window absolute w-full sm:w-[28rem] md:w-[32rem] h-[12rem] sm:h-[16rem] md:h-[23rem] left-1/2 sm:left-[44%] overflow-hidden"
+          className="window absolute w-full sm:w-[28rem] md:w-[32rem] h-[23rem] left-1/2 sm:left-[44%] overflow-hidden"
         >
           {videos.map((video, index) => (
             <motion.div
